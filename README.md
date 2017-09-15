@@ -1,6 +1,6 @@
 # Design of a Simple Calculator
 
-Authors [@deystom](https://github.com/deystom/ "deystom"), [@ooajani](https://github.com/ooajani/ "pecodeveloper"), [@mubarak](https://github.com/mubarak/ "mubarak")
+Authors [@deystom](https://github.com/deystom/ "deystom"), [@ooajani](https://github.com/ooajani/ "pecodeveloper"), [@mubarak](https://github.com/mubarak01/ "mubarak")
 
 ## About
 
