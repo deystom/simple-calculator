@@ -1,0 +1,23 @@
+body{
+    background-color: #ddd;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+input[type=text]{
+text-align: right;
+width: 350px;
+height: 60px;
+font-size: 35px;
+color: red;
+}
+.btn{
+    align-content: left;
+    width: 60px;
+    height: 40px;
+    font-weight: bold;
+}
+
+
